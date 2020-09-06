@@ -1,0 +1,20 @@
+{
+  "name": "spotify-electron",
+  "version": "1.0.0",
+  "description": "a simple electron app with spotify web player",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfleader101/spotify-electron.git"
+  },
+  "author": "Wolfleader101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolfleader101/spotify-electron/issues"
+  },
+  "homepage": "https://github.com/Wolfleader101/spotify-electron#readme"
+}
